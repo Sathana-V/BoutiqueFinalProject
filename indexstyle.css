@@ -982,12 +982,13 @@ html, body {
 
   .showbtn{
     background-color: black;
-    color:snow;
+    color: snow;
     font-size: medium;
     font: bold italic;
   }
 
   .showbtn:hover{
-    color:wheat;
+    color: black;
+    background-color: snow;  
   }
   
