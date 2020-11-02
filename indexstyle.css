@@ -979,4 +979,15 @@ html, body {
     background-position: -339px -107px;
     width: 57px;
   }
+
+  .showbtn{
+    background-color: black;
+    color:snow;
+    font-size: medium;
+    font: bold italic;
+  }
+
+  .showbtn:hover{
+    color:wheat;
+  }
   
